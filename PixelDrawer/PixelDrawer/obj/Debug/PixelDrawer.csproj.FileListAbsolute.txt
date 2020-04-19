@@ -1,0 +1,10 @@
+D:\Projects\C#\PixelDrawer\PixelDrawer\bin\Debug\PixelDrawer.exe.config
+D:\Projects\C#\PixelDrawer\PixelDrawer\bin\Debug\PixelDrawer.exe
+D:\Projects\C#\PixelDrawer\PixelDrawer\bin\Debug\PixelDrawer.pdb
+D:\Projects\C#\PixelDrawer\PixelDrawer\obj\Debug\PixelDrawer.csprojAssemblyReference.cache
+D:\Projects\C#\PixelDrawer\PixelDrawer\obj\Debug\PixelDrawer.Properties.Resources.resources
+D:\Projects\C#\PixelDrawer\PixelDrawer\obj\Debug\PixelDrawer.csproj.GenerateResource.cache
+D:\Projects\C#\PixelDrawer\PixelDrawer\obj\Debug\PixelDrawer.exe
+D:\Projects\C#\PixelDrawer\PixelDrawer\obj\Debug\PixelDrawer.pdb
+D:\Projects\C#\PixelDrawer\PixelDrawer\obj\Debug\PixelDrawer.Form1.resources
+D:\Projects\C#\PixelDrawer\PixelDrawer\obj\Debug\PixelDrawer.Drawer20x20.resources
